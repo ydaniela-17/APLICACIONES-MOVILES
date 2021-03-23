@@ -1,0 +1,8 @@
+com/example/listadinamicaheroes/databinding/ItemListaBinding.java
+ com.example.listadinamicaheroes.databinding.ItemListaBinding
+com/example/listadinamicaheroes/BuildConfig.java
+ com.example.listadinamicaheroes.BuildConfig
+com/example/listadinamicaheroes/databinding/ActivityMainBinding.java
+ com.example.listadinamicaheroes.databinding.ActivityMainBinding
+com/example/listadinamicaheroes/databinding/DialogRegisterBinding.java
+ com.example.listadinamicaheroes.databinding.DialogRegisterBinding
